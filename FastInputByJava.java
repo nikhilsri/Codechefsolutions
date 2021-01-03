@@ -23,8 +23,7 @@ public class Main {
 		int ans = 0;
 		
 		for (int i = 0; i < n; i++) {
-			int x = in.nextInt();
-			
+			int x = in.nextInt();			
 			if (x % k == 0) {
 				ans++;
 			}
