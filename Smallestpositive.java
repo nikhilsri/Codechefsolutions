@@ -6,4 +6,5 @@ long smallestpositive(long[] array, int n){
             ans=ans+array[i];
         }
         return ans;
+        
 }
